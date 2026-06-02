@@ -1,0 +1,13 @@
+# Normalize text files for consistent GitHub diffs across operating systems.
+* text=auto
+
+# Keep common binary assets out of text normalization.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.docx binary
+*.xlsx binary
+*.zip binary

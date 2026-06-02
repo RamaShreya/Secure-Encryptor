@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Secure Encryptor logo">
+  <defs>
+    <linearGradient id="g" x1="80" x2="432" y1="60" y2="452" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#55F6FF"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#20E3B2"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="#070B16"/>
+  <path d="M256 58 398 112v118c0 98-56 174-142 224-86-50-142-126-142-224V112L256 58Z" fill="#101827" stroke="url(#g)" stroke-width="18"/>
+  <rect x="178" y="226" width="156" height="124" rx="24" fill="url(#g)"/>
+  <path d="M208 226v-38c0-30 20-58 48-58s48 28 48 58v38" fill="none" stroke="#EAF6FF" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="256" cy="288" r="18" fill="#070B16"/>
+  <path d="M256 306v32" stroke="#070B16" stroke-width="16" stroke-linecap="round"/>
+</svg>
